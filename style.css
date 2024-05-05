@@ -1,0 +1,13 @@
+*{
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: aqua;
+}
+.card{
+    padding: 35px;
+    margin-bottom: 50px;
+    box-shadow: 3px 3px rgb(229, 237, 239), -1em 0 .4em rgb(211, 211, 86);
+}
