@@ -1,1 +1,1 @@
-### My Mini gaming install and play Project of fetching API using promise(.then and .catch)###
+### My Mini gaming install and play Project of fetching API using promise(.then and .catch) ###
